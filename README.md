@@ -4,7 +4,7 @@ This repository contains Detailed Implementation of Linear Regression Algorithms
 
 
 - Gradient Descent(Batch Gradient Descent)
-- Normalization Method (Using Vectorized representation of the features to find optimal values of thetas)
+- Normalization Method (Using Vectorized representation of the features to find optimal values of parameters)
 
 
 
